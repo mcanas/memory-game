@@ -1,19 +1,5 @@
 from cards import Card
 import random
-# class game
-# grid size
-# card options
-# columns
-# locations
-# methods
-#   create cards
-#   create grid
-#   check for matches
-#   check if game is won
-#   run the game
-# dunder main
-#   create game instance
-#   call start game
 
 
 class Game:
